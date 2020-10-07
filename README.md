@@ -11,7 +11,7 @@ public class Main {
 }
 ```
 
-E para o site ler os códigos em C#, é necessário renomear a classe para "URI":
+E para o site ler os códigos em C#, é necessário renomear a classe para "URI" e tirar o namespace:
 ```c#
 using System; 
 
